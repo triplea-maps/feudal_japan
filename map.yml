@@ -1,0 +1,3 @@
+map_name: feudal_japan
+games:
+- {game_name: Feudal Japan, file_name: FeudalJapan.xml}
